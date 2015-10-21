@@ -1,5 +1,5 @@
 <?php
-include("./Class/cloudflare.notify.php");
+include("./Class/class.notify.php");
 
 $key = "APIKEY";
 
